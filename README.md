@@ -1,3 +1,3 @@
-# Practice
+cd# Practice
 This is my first Git Repository
-Author - Harsh Raj
+Author - Harsh Raj Trader
